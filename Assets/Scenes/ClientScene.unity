@@ -469,7 +469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeToSend: 0.033333335
-  serverIP: 127.0.0.1
+  serverIP: 54.236.188.44
   serverPort: 12345
   cube: {fileID: 7833658134628281248, guid: 2884a6259573eb3478628a654850b48c, type: 3}
   cubeInstance: {fileID: 1404572377}
